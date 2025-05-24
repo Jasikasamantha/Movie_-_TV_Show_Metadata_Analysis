@@ -16,10 +16,15 @@ Power BI Dashboard for Movie and Tv Metadata analysis with Genres and Ratings (2
 Python project for Movie and Tv Metadata analysis with Genres and Ratings (2023)
 
 Project Overview:
+
 This project focuses on analyzing an IMDb-style dataset of movies and TV shows using Python. The goal is to clean the data, explore relationships between features (like rating, genre, runtime, and votes), and extract meaningful insights through visualizations and summaries.
+
 Dataset Columns:
+
 movie, genre, certificate, rating, runtime, stars, description, votes, director.
+
 Data Cleaning:
+
 1. Removed duplicates
 2. Converted columns (e.g., runtime from "120 min" → 120)
 3. Handled missing values
