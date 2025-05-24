@@ -77,6 +77,20 @@ iii. These top-voted movies are often part of big movie series (franchises), sho
 
 <img width="1035" alt="Screenshot 2025-05-24 at 12 13 45 AM" src="https://github.com/user-attachments/assets/119f4ab4-6f74-41e2-b407-4492e807c584" />
 
+Insight:
+
+i. Movies with certificates like 16+ often have higher ratings, which means adult or mature content might get better reviews.
+
+ii. On the other hand, family-friendly movies may have lower ratings, possibly because they are made for a wider audience, not just serious movie fans.
+
+6. Top Directors by Average Rating
+
+<img width="1012" alt="Screenshot 2025-05-24 at 12 17 19 AM" src="https://github.com/user-attachments/assets/b1744ba0-9100-4634-a5a8-d01d412ceaea" />
+
+7. Trend of Popular Directors by Ratings
+
+<img width="991" alt="Screenshot 2025-05-24 at 12 19 08 AM" src="https://github.com/user-attachments/assets/4483a6fd-3e01-4511-97e1-ae4f3e567e1d" />
+
    
 
 
