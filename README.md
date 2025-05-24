@@ -151,10 +151,52 @@ iii. A diversity of genres appearing frequently could suggest an increasing tren
 
  Insight:
 
- i.If ratings and votes have a strong positive connection, it means that movies with more votes usually get higher ratings. 
+ i. If ratings and votes have a strong positive connection, it means that movies with more votes usually get higher ratings. 
    So, popular movies (watched by many people) are often liked more.
 
- ii.If runtime and rating do not have a connection, it means the length of a movie doesn’t really affect how much people like it.
+ ii. If runtime and rating do not have a connection, it means the length of a movie doesn’t really affect how much people like it.
+
+13. Movies with High Runtime
+
+<img width="813" alt="Screenshot 2025-05-24 at 12 32 59 AM" src="https://github.com/user-attachments/assets/f4eb0c30-ea23-4c12-b80b-87e1e453d049" />
+
+ Insight:
+
+ i.Many movies are around 90 to 120 minutes long, which means most movies are made to fit this time range.
+
+ ii.If movies with higher runtimes tend to get lower ratings, it may indicate audience preference for shorter movies, especially in certain genres.
+
+14. Missing Values Analysis
+
+ <img width="534" alt="Screenshot 2025-05-24 at 12 40 29 AM" src="https://github.com/user-attachments/assets/c122e2cc-17e8-4f3d-a8ac-0ede07cb3945" />
+
+ Insight:
+ i. This analysis will show us if there are any significant missing values across columns.
+ ii. For example, if 'director' has many missing values, it might indicate incomplete data. 
+ iii. If essential columns like 'rating' or 'genre' have missing values, it could impact our analysis and need addressing.
+ 
+Summary Insights:
+
+ 1.Movies with a high number of votes usually have ratings between 7 and 8, showing that popular movies are often well-liked.
+
+ 2.Action and Drama are the most common genres, but some less common genres also receive very high ratings.
+
+ 3.Directors who consistently receive good ratings might have a strong fan base or a reputation for making quality films.
+
+ 4.Movie length (runtime) and certificate (like age rating) can affect ratings differently, depending on what kind of content viewers prefer.
+
+
+ 
+Future Work:
+
+1. Sentiment analysis of descriptions
+
+2. Use NLP to extract keywords from plots
+
+3. Predict movie rating based on metadata (ML)
+   
+This analysis gives an overall picture of the dataset, helping to find key patterns, relationships, and ideas that could guide deeper analysis or support decision-making in content creation or recommendations. 
+
 
 
 
