@@ -51,8 +51,20 @@ Exploratory Data Analysis (EDA) and Visualizations:
 <img width="742" alt="Screenshot 2025-05-23 at 11 57 49 PM" src="https://github.com/user-attachments/assets/d4570ac6-ce32-4cef-81a8-a472f38d6ade" />
 
 Insight:
+Most movie ratings seem to be clustered around the 6–8 range, suggesting that movies generally get average to good reviews.
 
- Most movie ratings seem to be clustered around the 6–8 range, suggesting that movies generally get average to good reviews.
+2. Movies with Highest Votes
+
+<img width="838" alt="Screenshot 2025-05-24 at 12 03 38 AM" src="https://github.com/user-attachments/assets/5f844b1b-4e4d-4106-936d-5d69c69db24a" />
+
+Insight:
+
+1.Movies with the most votes are usually the most popular and watched by a lot of people.
+
+2.A high number of votes can also mean that fans are very active or the movie was well-promoted.
+
+3.These top-voted movies are often part of big movie series (franchises), showing that they have a large number of fans.
+   
 
 
 
