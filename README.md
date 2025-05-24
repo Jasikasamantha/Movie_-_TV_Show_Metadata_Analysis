@@ -59,11 +59,16 @@ Most movie ratings seem to be clustered around the 6–8 range, suggesting that 
 
 Insight:
 
-1.Movies with the most votes are usually the most popular and watched by a lot of people.
+i. Movies with the most votes are usually the most popular and watched by a lot of people.
 
-2.A high number of votes can also mean that fans are very active or the movie was well-promoted.
+ii. A high number of votes can also mean that fans are very active or the movie was well-promoted.
 
-3.These top-voted movies are often part of big movie series (franchises), showing that they have a large number of fans.
+iii. These top-voted movies are often part of big movie series (franchises), showing that they have a large number of fans.
+
+3. Plot the genre breakdown
+
+<img width="1027" alt="Screenshot 2025-05-24 at 12 08 21 AM" src="https://github.com/user-attachments/assets/68cde5aa-eec6-4207-8eab-346ce4180f21" />
+
    
 
 
