@@ -91,6 +91,81 @@ ii. On the other hand, family-friendly movies may have lower ratings, possibly b
 
 <img width="991" alt="Screenshot 2025-05-24 at 12 19 08 AM" src="https://github.com/user-attachments/assets/4483a6fd-3e01-4511-97e1-ae4f3e567e1d" />
 
+ Insight:
+
+ i. Directors with higher average ratings might indicate consistent quality in their works.
+
+ ii. If certain directors frequently receive higher ratings, it may indicate a loyal following or unique filmmaking style.
+ 
+8. Which Stars Appear Most Often?
+
+<img width="1031" alt="Screenshot 2025-05-24 at 12 23 08 AM" src="https://github.com/user-attachments/assets/f62c061a-f159-453d-bee0-87f5096763d3" />
+
+ Insight:
+
+ i. Some stars appear in many different movies or shows. These actors may be very popular or in high demand.
+
+ ii. Seeing the same names often could mean they are part of successful series or are trusted by directors for important roles.
+
+ iii. This also shows which stars are most active in the industry.
+
+9. Votes vs Rating – Are popular movies always better?
+
+
+<img width="1009" alt="Screenshot 2025-05-24 at 12 26 17 AM" src="https://github.com/user-attachments/assets/c4c042b3-9ac9-46b0-bec2-ffdc0ab56971" />
+
+ Insight:
+
+ i. Highly voted movies tend to cluster around popular ratings (7–8).
+
+ ii. Some low-vote movies still have very high ratings (potential hidden gems or bias).
+
+10. Average Rating by Genre
+
+
+<img width="950" alt="Screenshot 2025-05-24 at 12 29 40 AM" src="https://github.com/user-attachments/assets/23f844b7-77ff-422b-bc69-56886168afbc" />
+
+ Insight:
+
+ i.Some genres (e.g., Animation, Documentary, etc.) might have higher average ratings than others.
+
+ ii.This means people may like these genres more, showing their personal taste or preference.
+
+ iii.If a genre always gets high ratings, it could also mean that movies in that genre are made with better quality.
+
+11. Top 10 Most Popular Genres
+
+<img width="1022" alt="Screenshot 2025-05-24 at 12 32 21 AM" src="https://github.com/user-attachments/assets/f20451c3-f721-46dc-9d0b-89b55b3d715d" />
+
+ Insight:
+
+i. Action, Adventure, and Drama are the most common genres, which might suggest that these are the genres with a broad audience.
+
+ii. The prevalence of these genres can help direct decisions about what types of shows or movies to recommend or create.
+
+iii. A diversity of genres appearing frequently could suggest an increasing trend for varied content.
+
+12. Correlation Matrix of Numeric Variables
+
+<img width="819" alt="Screenshot 2025-05-24 at 12 32 39 AM" src="https://github.com/user-attachments/assets/a9d00ffb-b44a-4bac-8ee5-b297eaa04b93" />
+
+ Insight:
+
+ i.If ratings and votes have a strong positive connection, it means that movies with more votes usually get higher ratings. 
+   So, popular movies (watched by many people) are often liked more.
+
+ ii.If runtime and rating do not have a connection, it means the length of a movie doesn’t really affect how much people like it.
+
+
+
+
+
+
+
+ 
+
+
+
    
 
 
