@@ -33,6 +33,10 @@ Data Cleaning:
 
 <img width="1114" alt="Screenshot 2025-05-23 at 11 39 08 PM" src="https://github.com/user-attachments/assets/83a3ce3d-b3b0-438b-81a8-ece8f90d61ea" />
 
+Try Some more cleaning it's help me more precise analysis
+
+<img width="1111" alt="Screenshot 2025-05-23 at 11 47 03 PM" src="https://github.com/user-attachments/assets/2f0477e1-4b36-4467-af47-76bc9f9d5dbf" />
+
 
 
 
