@@ -69,6 +69,14 @@ iii. These top-voted movies are often part of big movie series (franchises), sho
 
 <img width="1027" alt="Screenshot 2025-05-24 at 12 08 21 AM" src="https://github.com/user-attachments/assets/68cde5aa-eec6-4207-8eab-346ce4180f21" />
 
+4. Rating by Certificate
+
+<img width="964" alt="Screenshot 2025-05-24 at 12 11 37 AM" src="https://github.com/user-attachments/assets/2f24f8c0-ebb6-4714-95fa-6d4223eaac35" />
+
+5. Movies by Certification and Average Rating
+
+<img width="1035" alt="Screenshot 2025-05-24 at 12 13 45 AM" src="https://github.com/user-attachments/assets/119f4ab4-6f74-41e2-b407-4492e807c584" />
+
    
 
 
