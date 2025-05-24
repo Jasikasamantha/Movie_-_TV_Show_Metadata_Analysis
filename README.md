@@ -135,7 +135,7 @@ ii. On the other hand, family-friendly movies may have lower ratings, possibly b
 
 11. Top 10 Most Popular Genres
 
-<img width="1022" alt="Screenshot 2025-05-24 at 12 32 21 AM" src="https://github.com/user-attachments/assets/f20451c3-f721-46dc-9d0b-89b55b3d715d" />
+<img width="996" alt="Screenshot 2025-05-24 at 12 47 16 AM" src="https://github.com/user-attachments/assets/903d3f51-cf92-4393-83f7-ec90cfb0fdd0" />
 
  Insight:
 
