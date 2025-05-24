@@ -46,9 +46,14 @@ some Statistical Analysis
 
 Exploratory Data Analysis (EDA) and Visualizations:
 
-1.Distribution of Movie Ratings
+1. Distribution of Movie Ratings
 
 <img width="742" alt="Screenshot 2025-05-23 at 11 57 49 PM" src="https://github.com/user-attachments/assets/d4570ac6-ce32-4cef-81a8-a472f38d6ade" />
+
+Insight:
+
+ Most movie ratings seem to be clustered around the 6–8 range, suggesting that movies generally get average to good reviews.
+
 
 
 
