@@ -1,4 +1,4 @@
-# Movie_And_TV_Metadata_Analysis
+# Movie And TV Metadata Analysis
 This project explores patterns in movie and TV show metadata, analyzing genre trends, director influence, certificate impact, and more.
 # Tools
 - Python (Pandas, Seaborn, Matplotlib)
