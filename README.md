@@ -201,7 +201,7 @@ iii. A diversity of genres appearing frequently could suggest an increasing tren
    
 This analysis gives an overall picture of the dataset, helping to find key patterns, relationships, and ideas that could guide deeper analysis or support decision-making in content creation or recommendations. 
 
-one of my Power BI dashboard projects based on IMDb dataset:
+# one of my Power BI dashboard projects based on IMDb dataset:
 
 <img width="1042" alt="IMDB_dashboard" src="https://github.com/user-attachments/assets/ec078398-5deb-41c7-89a2-e5977e68191c" />
 
