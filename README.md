@@ -37,7 +37,7 @@ Data Cleaning:
 
 <img width="1114" alt="Screenshot 2025-05-23 at 11 39 08 PM" src="https://github.com/user-attachments/assets/83a3ce3d-b3b0-438b-81a8-ece8f90d61ea" />
 
-Try Some more cleaning it's help me more precise analysis
+Some more cleaning it's help more precise analysis
 
 <img width="1111" alt="Screenshot 2025-05-23 at 11 47 03 PM" src="https://github.com/user-attachments/assets/2f0477e1-4b36-4467-af47-76bc9f9d5dbf" />
 
@@ -201,7 +201,7 @@ iii. A diversity of genres appearing frequently could suggest an increasing tren
    
 This analysis gives an overall picture of the dataset, helping to find key patterns, relationships, and ideas that could guide deeper analysis or support decision-making in content creation or recommendations. 
 
-# One of my Power BI dashboard projects based on IMDb dataset:
+# One of my Previous Power BI dashboard projects based on IMDb dataset:
 
 <img width="1042" alt="IMDB_dashboard" src="https://github.com/user-attachments/assets/ec078398-5deb-41c7-89a2-e5977e68191c" />
 
