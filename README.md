@@ -171,8 +171,11 @@ iii. A diversity of genres appearing frequently could suggest an increasing tren
  <img width="534" alt="Screenshot 2025-05-24 at 12 40 29 AM" src="https://github.com/user-attachments/assets/c122e2cc-17e8-4f3d-a8ac-0ede07cb3945" />
 
  Insight:
+ 
  i. This analysis will show us if there are any significant missing values across columns.
- ii. For example, if 'director' has many missing values, it might indicate incomplete data. 
+ 
+ ii. For example, if 'director' has many missing values, it might indicate incomplete data.
+ 
  iii. If essential columns like 'rating' or 'genre' have missing values, it could impact our analysis and need addressing.
  
 Summary Insights:
