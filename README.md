@@ -8,8 +8,9 @@ This project explores patterns in movie and TV show metadata, analyzing genre tr
 - Power BI
   
  Excel Dashboard for movie and Tv Metadata analysiswith Genre and Ratings (2023)
+<img width="1174" alt="Screenshot 2025-06-17 at 11 33 38 PM" src="https://github.com/user-attachments/assets/ca74c6d8-28da-4a0a-a1c7-606c6e77f9c4" />
 
-<img width="1172" alt="IMBD_genre_rating_Dashboard" src="https://github.com/user-attachments/assets/dcbcb6f1-6ce1-4c82-a983-549e217af01e" />
+
 
 Power BI Dashboard for Movie and Tv Metadata analysis with Genres and Ratings (2023)
 
